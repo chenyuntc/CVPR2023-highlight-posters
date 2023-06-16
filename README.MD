@@ -1,10 +1,4 @@
 # posters for all CVPR2023 Highlight papers
-
-![Unisim](22272_UniSim-_A_Neural_Closed-Loop_Sensor_Simulator_poster.png)
-
-
-
-
 ## script used to download
 ```python
 import requests
@@ -27,3 +21,8 @@ for paper_id, title in id2title.items():
     save_path = f"{paper_id}_{title}_poster.png"
     get_ipython().system('wget $url -O $save_path')
 ```
+
+![Unisim](posters/22272_UniSim-_A_Neural_Closed-Loop_Sensor_Simulator_poster.png)
+
+
+
