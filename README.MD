@@ -1,4 +1,8 @@
 # posters for all CVPR2023 Highlight papers
+
+# [Poster for CVPR 2024 Award Papers](https://github.com/chenyuntc/CVPR2024-award-posters)
+
+
 ## script used to download
 ```python
 import requests
